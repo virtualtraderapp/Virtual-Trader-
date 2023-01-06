@@ -7,7 +7,7 @@ coverY: 0
 
 #### Virtual Trader $VTR
 
-_P2P exchange Worldwide platform providing investment and crypto trading solutions for all countries.Our platform offering P2P trading solutions to investor. Our token <mark style="color:green;">**$VTR**</mark>, allows users to make discounted payments, trade, Legal/tax support and stake for profits_
+_P2P exchange Worldwide platform providing investment and crypto trading solutions for all countries._
 
 #### _Vision_&#x20;
 
@@ -15,7 +15,7 @@ After a market analysis, we identify some anomalies and also open entry in order
 
 #### Mission
 
-
+_Our platform offering P2P trading solutions to investor. Our token <mark style="color:green;">**$VTR**</mark>, allows users to make discounted payments, trade, Legal/tax support and stake for profits_
 
 #### P2P &#x20;
 
