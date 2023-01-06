@@ -21,6 +21,6 @@ _-> To provide users of the crypto ecosystem with the ability to switch between 
 
 <mark style="color:green;">**What are the advantages of swapping**</mark>
 
-\-> By swapping on the app (coming soon) or on the Virtual Trader platform, swaps are done directly in the wallet, without having to use any external exchange for conversion, and saving trading time, since the swap is immediate, as well as money in fees.
+\-> By swapping on the app (coming soon) or on the Virtual Trader platform, swaps are done directly in the wallet, without having to use any external exchange for conversion, and saving trading time, since the swap is immediate, as well as money in fees.In fact, Virtual Trader swaps are commission-free and there is no extra charge for using this feature.
 
-In fact, Virtual Trader swaps are commission-free and there is no extra charge for using this feature.
+\-> The Swap $VTR will also include limit orders, stop losses and more functions.$VTR Swap executes transactions in a decentralized and autonomous manner.
