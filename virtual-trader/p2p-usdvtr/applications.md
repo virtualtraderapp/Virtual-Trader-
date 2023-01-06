@@ -45,3 +45,15 @@ _Here are some of the features and rules we will implement on our platform to en
 
 * _<mark style="color:green;">**Risk Warning:**</mark> Upon opening or p2p for the first time, a first-time user will receive a pop-up notice. This notice is to inform the user not to release cryptocurrencies before receiving an acknowledgment. To ensure that this notice is not disregarded, first-time users will be mandated to read and agree to it before continuing to our p2p platform._
 * _<mark style="color:green;">**Chatbox Alerts**</mark>: We will have a pinned message in all our user chatbots alerting users to confirm that they have received funds in their bank accounts before releasing their cryptocurrencies. Users can expand the pinned message to read more_
+
+#### Virtual Trader self-help
+
+_We understand that many users may be first-timers who may not understand the workings of p2p platforms. So, we plan to create a native blog section on our website where we will publish helpful articles, how-tos, and much more._
+
+_This will serve as a knowledge base, where users can first go for self-help before reaching out to our support team. Apart from this, we will host routine live events and live sessions to converge all our users in different countries._
+
+#### KYC in order to smooth out discrepancies
+
+_KYC is an important feature in different areas of finance. Plus, there are many bad players in the cryptocurrency industry, with criminals using the cover of anonymity to facilitate their unscrupulous activities._
+
+_So, to prevent crimes or reduce to the barest minimum their eventualities on our platform, it is important to us that all users go through the KYC process. As such, we will introduce multiple KYC with limited options for users._

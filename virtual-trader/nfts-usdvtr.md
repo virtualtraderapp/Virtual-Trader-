@@ -3,5 +3,5 @@ cover: ../.gitbook/assets/Capa Gitbook virtua trader.png
 coverY: 0
 ---
 
-# NFT's $VTR
+# 🟢 NFT's $VTR
 

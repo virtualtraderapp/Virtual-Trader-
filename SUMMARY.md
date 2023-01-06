@@ -19,7 +19,7 @@
 * [🟢 Credit Card](virtual-trader/credit-card.md)
 * [🟢 Tokenomics $VTR](virtual-trader/tokenomics-usdvtr/README.md)
   * [🟩 Token Metrics](virtual-trader/tokenomics-usdvtr/token-metrics.md)
-* [🟢 Taxes $VTR](virtual-trader/taxes-usdvtr.md)
+  * [🟢 Taxes $VTR](virtual-trader/tokenomics-usdvtr/taxes-usdvtr.md)
 * [🟢 Roadmap $VTR](virtual-trader/roadmap-usdvtr.md)
 * [🟢 Security $VTR](virtual-trader/security-usdvtr.md)
 * [🟢 Social Media $VTR](virtual-trader/social-media-usdvtr.md)
