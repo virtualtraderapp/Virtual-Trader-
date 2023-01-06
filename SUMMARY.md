@@ -16,6 +16,7 @@
 * [🟢 Governance $VTR](virtual-trader/governance-usdvtr.md)
 * [🟢 Brigde $VTR](virtual-trader/brigde-usdvtr.md)
 * [🟢 NFT's $VTR](virtual-trader/nfts-usdvtr.md)
+* [🟢 Credit Card](virtual-trader/credit-card.md)
 * [🟢 Tokenomics $VTR](virtual-trader/tokenomics-usdvtr/README.md)
   * [🟩 Token Metrics](virtual-trader/tokenomics-usdvtr/token-metrics.md)
 * [🟢 Taxes $VTR](virtual-trader/taxes-usdvtr.md)
