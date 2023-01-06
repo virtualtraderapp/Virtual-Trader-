@@ -3,8 +3,8 @@
 ## Virtual Trader
 
 * [Overview](README.md)
-* [Fairlaunch $VTR](virtual-trader/fairlaunch-usdvtr.md)
-* [DeFi $VTR](virtual-trader/defi-usdvtr.md)
+* [🟢 Fairlaunch $VTR](virtual-trader/fairlaunch-usdvtr.md)
+* [🟢 DeFi $VTR](virtual-trader/defi-usdvtr.md)
 * [P2P $VTR](virtual-trader/p2p-usdvtr.md)
 * [Staking $VTR](virtual-trader/staking-usdvtr.md)
 * [Swap $VTR](virtual-trader/swap-usdvtr.md)
