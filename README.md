@@ -9,7 +9,13 @@ _P2P exchange Worldwide platform providing investment and crypto trading solutio
 
 _Our platform offering P2P trading solutions to investor. Our token <mark style="color:green;">**$VTR**</mark>, allows users to make discounted payments, trade, Legal/tax support and stake for profits_
 
-__
+_Vision_&#x20;
+
+After a market analysis, we identify some anomalies and also open entry in order to bring above all security, but also ease to our investors, so we approach from the most biased DeFi tools as the best negotiations with zero rate.
+
+Mission
+
+
 
 _Swap_&#x20;
 
