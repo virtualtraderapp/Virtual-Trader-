@@ -13,6 +13,8 @@ _Many long-term cryptocurrency holders see staking as a way to make their assets
 
 _With staking, there is the added benefit of contributing to the safety and efficiency of the blockchain projects you support. By staking some of your funds, you make the blockchain more resistant to attack and strengthen its ability to process transactions._
 
+<mark style="color:green;">Staking will come from the bottom of the liquidity pool</mark>
+
 _We will also use governance tokens, for our staking participants, so they will have autonomy of changes and updates in <mark style="color:green;">**Virtual Trader**</mark>. read below about governance:_
 
 {% content-ref url="../governance-usdvtr.md" %}
