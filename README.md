@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Capa Gitbook virtua trader.png
+cover: .gitbook/assets/Capa Gitbook virtua trader (1).png
 coverY: 0
 ---
 
