@@ -19,7 +19,6 @@
 * [🟢 Brigde $VTR](virtual-trader/brigde-usdvtr.md)
 * [🟢 NFT's $VTR](virtual-trader/nfts-usdvtr/README.md)
   * [🟩 Applications](virtual-trader/nfts-usdvtr/applications.md)
-  * [🟩 Opensea $VTR](https://opensea.io/Virtual\_Trader)
 * [🟢 Credit Card $VTR](virtual-trader/credit-card-usdvtr.md)
 * [🟢 Tokenomics $VTR](virtual-trader/tokenomics-usdvtr/README.md)
   * [🟩 Token Metrics](virtual-trader/tokenomics-usdvtr/token-metrics.md)
