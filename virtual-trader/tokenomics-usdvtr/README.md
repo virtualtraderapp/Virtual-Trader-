@@ -5,7 +5,7 @@ coverY: 0
 
 # 🟢 Tokenomics $VTR
 
-<mark style="color:green;">Presale Address :</mark>&#x20;
+<mark style="color:green;">Presale Address :</mark> 0xa4bc102Ad58A0235600Ba8FfE2CcaB46480f73d8
 
 <mark style="color:green;">Token Name:</mark> <mark style="color:yellow;">****</mark> Virtual Trader&#x20;
 
@@ -15,11 +15,11 @@ coverY: 0
 
 <mark style="color:green;">Total Supply:</mark> 100,000 $VTR
 
-<mark style="color:green;">Soft Cap:</mark>
+<mark style="color:green;">Soft Cap:</mark> 50 BNB
 
-<mark style="color:green;">Presale Start Time:</mark>
+<mark style="color:green;">Presale Start Time:</mark> 2023.01.17 14:00 (UTC)
 
-<mark style="color:green;">Presale End Time:</mark>
+<mark style="color:green;">Presale End Time:</mark> 2023.01.19 14:00 (UTC)
 
 #### Access our official contract:
 
