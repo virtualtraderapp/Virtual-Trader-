@@ -21,13 +21,13 @@ _Our platform offering P2P trading solutions to investor. Our token <mark style=
 
 We will rely on the P2P system where we will connect investors in transactions without intermediaries. &#x20;
 
-#### Our Platform
-
-{% embed url="https://app.virtualtrader.app/dashboard" %}
-
 {% content-ref url="virtual-trader/p2p-usdvtr/" %}
 [p2p-usdvtr](virtual-trader/p2p-usdvtr/)
 {% endcontent-ref %}
+
+#### Our Platform
+
+{% embed url="https://app.virtualtrader.app/dashboard" %}
 
 #### _Swap_&#x20;
 
