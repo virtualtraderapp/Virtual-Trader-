@@ -19,4 +19,4 @@ _Go to_ [_**PANCAKESWAP.Finance**_](https://exchange.pancakeswap.finance/#/swap?
 
 #### _<mark style="color:green;">4. Step: Swap your BNB for $VTR</mark>_
 
-_Now you can swap your BNB for $VTR  . Set your slippage to 5-6% . Click on the Swap Button to finalize your trade._
+_Now you can swap your BNB for $VTR  . Click on the Swap Button to finalize your trade._

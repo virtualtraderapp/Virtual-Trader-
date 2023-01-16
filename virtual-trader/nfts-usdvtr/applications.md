@@ -9,7 +9,7 @@ coverY: 0
 
 #### _Visual Identity_&#x20;
 
-_Who buy our NFT's will have access to various events that we will develop, among one of them I will highlight an AI course that our team composed of doctors and experts are developing for our investors, after the end they will receive new NFT's or even updates to their current ones, we will also develop activities in the metaverse, where only those who have the NFT $VTR will have access ... this and much more for our investors._
+_Who buy our NFT's will have access to various events that we will develop, among one of them I will highlight an AI course that our team composed of experts are developing for our investors, after the end they will receive new NFT's or even updates to their current ones, we will also develop activities in the metaverse, where only those who have the NFT $VTR will have access ... this and much more for our investors._
 
 #### _Supply Chain and Authentication_
 
